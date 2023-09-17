@@ -19,7 +19,7 @@ class Solution{
 public class NormalSolution {
     public static void main(String[] args) {
         Solution str= new Solution();
-        String Str ="jakakaria";
+        String Str ="jakaria";
         System.out.println(str.lenghtofLongestSubstring(Str));
     }
 }
